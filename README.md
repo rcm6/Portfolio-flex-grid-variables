@@ -23,7 +23,7 @@ Here are the critical requirements necessary to develop a portfolio that satisfi
 * When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
 
 ## Screengrab
-![Alt text](../images/Screenshot.png.jpg?raw=true)
+![Alt text](./images/Screenshot.png.jpg?raw=true)
 
 ## Link
 [https://rcm6.github.io/Portfolio-flex-grid-variables/](https://rcm6.github.io/Portfolio-flex-grid-variables/)
